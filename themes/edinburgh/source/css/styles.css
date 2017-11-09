@@ -73,7 +73,7 @@ h1, h2, h3 {
 }
 
 .nav-item {
-	font-size: 0.8rem;
+	font-size: 1rem;
 	font-weight: 300;
 	letter-spacing: 1.5px;
 }
@@ -95,6 +95,7 @@ h1, h2, h3 {
 
 .project-img {
 	width: 100%;
+	max-height: 250px;
 	display: block;
 	object-fit: cover;
 }
@@ -120,9 +121,9 @@ h1, h2, h3 {
 }
 
 .hovereffect .overlay-text {
-	font-size: 1.3rem;
+	font-size: 1.8rem;
 	font-family: 'Crimson Text', sans-serif;
-	font-weight: 300;
+	font-weight: 400;
 	color: #000;
 	left: 50%;
 	position: absolute;
