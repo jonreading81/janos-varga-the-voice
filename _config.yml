@@ -83,7 +83,6 @@ menu:
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repo: github.com:jonreading81/janos-varga-the-voice.git
-  branch: master
-  message: update
+  type: s3
+  bucket: janos-the-voice
+  region: 'us-west-1'
