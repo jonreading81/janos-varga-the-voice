@@ -1,8 +1,8 @@
 ---
 title: contact
 date: 2017-11-08 11:14:39
-cover_image: images/unsplash.jpeg
-thumb_image: images/unsplash.jpeg
+cover_image: images/unsplash.jpg
+thumb_image: images/unsplash.jpg
 ---
 # Contact Details
 
