@@ -6,5 +6,6 @@ thumb_image: images/unsplash.jpg
 ---
 # Contact Details
 
+ please get in touch
 
 {% fa envelope-open lg %}&nbsp;&nbsp;[janos@email.com](mailto:janos@email.com)

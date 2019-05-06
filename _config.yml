@@ -83,6 +83,6 @@ menu:
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: s3
+  type: aws-s3
   bucket: janos-the-voice
   region: 'us-west-1'
