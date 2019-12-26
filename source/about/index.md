@@ -1,9 +1,9 @@
 ---
 title: About
 date: 2017-11-08 11:14:39
-cover_image: images/unsplash.jpg
-thumb_image: images/unsplash.jpg
+cover_image: images/piglet.jpg
+thumb_image: images/piglet.jpg
 ---
 # About
 
-My name is janos
+My name is Janos
