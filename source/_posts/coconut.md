@@ -1,5 +1,5 @@
 ---
-title: Coconuts
+title: Ellegy for Jane
 date: 2017-11-08 13:09:13
 tags:
 cover_image: images/EllegyForJane.jpeg
@@ -8,6 +8,6 @@ thumb_image: images/EllegyForJane.jpeg
 
 # This is a test 3
 
-Changing image from mike to EllegyForJane and the audio to OneMinute.mp3
+Changing the image to EllegyForJane and the audio to OneMinute.mp3
 
-{% aplayer "Coconuts" "Janos Varga" "https://s3-us-west-1.amazonaws.com/janos-the-voice-audio/OneMinute.mp3" "/images/EllegyForJane.jpeg" %}
+{% aplayer "Ellegy for Jane" "Janos Varga" "https://s3-us-west-1.amazonaws.com/janos-the-voice-audio/OneMinute.mp3" "/images/EllegyForJane.jpeg" %}
