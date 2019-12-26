@@ -84,5 +84,5 @@ menu:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: aws-s3
-  bucket: janos-the-voice
+  bucket: janos.calloftheforest.com
   region: 'us-west-1'
