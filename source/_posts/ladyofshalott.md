@@ -5,7 +5,10 @@ tags:
 cover_image: images/goose.jpg
 thumb_image: images/goose.jpg
 ---
+#2 Lady of Shalott by Alfred Lord Tennyson, narrated by Janos Varga
 
-A recording of an evolutionary psychotherapy session created by the psychologist and psychotherapist Giulio Cesare Giacobbe for Adult Men and narraged by Janos Varga. 
+Alfred, Lord Tennyson (1809-1892) is one of the poets most associated with the Victorian age, both in his own lifetime and ever since. His poems are complex narratives with careful attention to image, rhyme, and meter. 'The Lady of Shalott,' first published in 1832 and revised in 1842, has proved very popular with illustrators who are drawn to its mysterious and romantic story, inspired by the legends of King Arthur and Camelot.
+
+'The Lady of Shalott' tells the story of a young medieval woman mysteriously imprisoned on an island near Camelot. She must weave a colorful web and only watch the outside world through a mirror. If she looks at Camelot directly, she will be cursed.
 
 {% aplayer "Forest" "Janos Varga" "http://janos-the-voice-audio.s3-website-us-west-1.amazonaws.com/oneminute.mp3" "/images/goose.jpg"  %}
