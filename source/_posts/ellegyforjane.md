@@ -6,7 +6,7 @@ cover_image: images/ellegy.jpg
 thumb_image: images/ellegy.jpg
 ---
 
-#  Ellegy For Jane
+#  Ellegy for Jane
 
 Change .md, new size pic
 
