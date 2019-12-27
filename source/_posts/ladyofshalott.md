@@ -5,7 +5,7 @@ tags:
 cover_image: images/goose.jpg
 thumb_image: images/goose.jpg
 ---
-#2 Lady of Shalott by Alfred Lord Tennyson, narrated by Janos Varga
+# Lady of Shalott by Alfred Lord Tennyson, narrated by Janos Varga
 
 Alfred, Lord Tennyson (1809-1892) is one of the poets most associated with the Victorian age, both in his own lifetime and ever since. His poems are complex narratives with careful attention to image, rhyme, and meter. 'The Lady of Shalott,' first published in 1832 and revised in 1842, has proved very popular with illustrators who are drawn to its mysterious and romantic story, inspired by the legends of King Arthur and Camelot.
 
