@@ -2,22 +2,12 @@
 title: Hello World
 date: 2017-11-08 13:09:39
 tags:
-cover_image: images/coconunts.jpg
-thumb_image: images/coconuts.jpg
+cover_image: images/numbers.jpg
+thumb_image: images/numbers.jpg
 ---
 
 # heading 
 
-## heading
+Hello world ... open to anything
 
-{% aplayer "Hello World" "Janos Varga" "http://www.sample-videos.com/audio/mp3/oneminute.mp3" "/images/coconuts.jpeg"  %}
-
-
-### heading
-
-- ddd
-- ddd
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-
-{% aplayer "Hello World" "Janos Varga" "http://www.sample-videos.com/audio/mp3/oneminute.mp3" "/images/coconuts.jpeg"  %}
+{% aplayer "Hello World" "Janos Varga" "http://www.sample-videos.com/audio/mp3/oneminute.mp3" "/images/numbers.jpeg"  %}
