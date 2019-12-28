@@ -2,8 +2,8 @@
 title: Lady of Shalott
 date: 2017-11-08 13:08:51
 tags:
-cover_image: images/shalott.jpeg
-thumb_image: images/shalott.jpeg
+cover_image: images/shalott.jpg
+thumb_image: images/shalott.jpg
 ---
 # Lady of Shalott by Alfred Lord Tennyson, narrated by Janos Varga
 
@@ -11,4 +11,4 @@ Alfred, Lord Tennyson (1809-1892) is one of the poets most associated with the V
 
 'The Lady of Shalott' tells the story of a young medieval woman mysteriously imprisoned on an island near Camelot. She must weave a colorful web and only watch the outside world through a mirror. If she looks at Camelot directly, she will be cursed.
 
-{% aplayer "Lady of Shalott" "Janos Varga" "http://janos-the-voice-audio.s3-website-us-west-1.amazonaws.com/oneminute.mp3" "/images/shalott.jpeg"  %}
+{% aplayer "Lady of Shalott" "Janos Varga" "http://janos-the-voice-audio.s3-website-us-west-1.amazonaws.com/oneminute.mp3" "/images/shalott.jpg"  %}
