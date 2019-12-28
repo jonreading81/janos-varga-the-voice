@@ -1,5 +1,5 @@
 ---
-title: Multiplication
+title: Technical
 date: 2017-11-08 13:08:51
 tags:
 cover_image: images/technical.jpg
