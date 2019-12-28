@@ -8,4 +8,4 @@ thumb_image: images/bear.jpg
  
  A story for small children written by Anna Varga and narrated by Janos Varga
 
-{% aplayer "Barney the bear" "Janos Varga" "http://www.sample-videos.com/audio/mp3/oneminute.mp3" "/images/bear.jpg"  %}
+{% aplayer "Barney the bear" "Janos Varga" "http://janos-the-voice-audio.s3-website-us-west-1.amazonaws.com/oneminute.mp3"  "/images/bear.jpg"  %}
