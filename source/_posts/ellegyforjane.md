@@ -10,4 +10,4 @@ thumb_image: images/ellegy.jpg
 
 Change .md, new size pic
 
-{% aplayer "Ellegy for Jane" "Janos Varga" "https://s3-us-west-1.amazonaws.com/janos-the-voice-audio/OneMinute.mp3" "/images/ellegy.jpg" %}
+{% aplayer "Ellegy for Jane" "Janos Varga" "http://janos-the-voice-audio.s3-website-us-west-1.amazonaws.com/oneminute.mp3" "/images/ellegy.jpg" %}
