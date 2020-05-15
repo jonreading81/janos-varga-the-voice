@@ -11,4 +11,4 @@ Alfred, Lord Tennyson (1809-1892) is one of the poets most associated with the V
 
 'The Lady of Shalott' tells the story of a young medieval woman mysteriously imprisoned on an island near Camelot. She must weave a colorful web and only watch the outside world through a mirror. If she looks at Camelot directly, she will be cursed.
 
-{% aplayer "Lady of Shalott" "Janos Varga" "http://janos-the-voice-audio.s3-website-us-west-1.amazonaws.com/oneminute.mp3" "/images/shalott.jpg"  %}
+{% aplayer "Lady of Shalott" "Janos Varga" "http://janos-the-voice-audio.s3-website-us-west-1.amazonaws.com/lady1.mp3" "/images/shalott.jpg"  %}
