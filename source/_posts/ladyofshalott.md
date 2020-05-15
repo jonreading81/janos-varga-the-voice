@@ -5,7 +5,7 @@ tags:
 cover_image: images/shalott.jpg
 thumb_image: images/shalott.jpg
 ---
-# Lady of Shalott by Alfred Lord Tennyson, narrated by Janos Varga
+# Lady of Shalott by Alfred Lord Tennyson, narrated by János Varga
 
 "The Lady of Shalott" is a lyrical ballad by the English poet Alfred Tennyson. Based on the medieval Donna di Scalotta, it tells the story of Elaine of Astolat, a young noblewoman imprisoned in a tower on an island near Camelot.
 
