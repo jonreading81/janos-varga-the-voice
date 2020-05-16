@@ -5,7 +5,7 @@ tags:
 cover_image: images/technical.jpg
 thumb_image: images/technical.jpg
 ---
-# As the mist leaves no scar - a poem by Leanord Cohen, narrated by János Varga
+# The fly - a poem by Leanord Cohen, narrated by János Varga
 
 Leonard Cohen was a Canadian singer, songwriter, poet, and novelist. His work explored religion, politics, isolation, depression, sexuality, loss, death and romantic relationships.
 
