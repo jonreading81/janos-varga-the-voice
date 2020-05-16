@@ -8,4 +8,4 @@ thumb_image: images/elegyo.jpg
 
 #  Elegy for Jane
 
-{% aplayer "Elegy for Jane" "Janos Varga" "http://janos-the-voice-audio.s3-website-us-west-1.amazonaws.com/jane.mp3" "/images/ellegyo.jpg" %}
+{% aplayer "Elegy for Jane" "Janos Varga" "http://janos-the-voice-audio.s3-website-us-west-1.amazonaws.com/jane.mp3" "/images/elegyo.jpg" %}
