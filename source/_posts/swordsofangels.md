@@ -5,7 +5,7 @@ tags:
 cover_image: images/sword.jpeg
 thumb_image: images/sword.jpeg
 ---
-# I have taken you - a poem by Leanord Cohen, narrated by János Varga
+# I have taken you - a poem by Leonard Cohen, narrated by János Varga
 
 Leonard Cohen was a Canadian singer, songwriter, poet, and novelist. His work explored religion, politics, isolation, depression, sexuality, loss, death and romantic relationships.
 
