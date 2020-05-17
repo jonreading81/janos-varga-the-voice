@@ -6,6 +6,6 @@ cover_image: images/rabbit1.jpeg
 thumb_image: images/rabbit1.jpeg
 ---
 
-# A poem for young children written by Anna Varga, narrated by János Varga
+# A story for young children written by Anna Varga, narrated by János Varga
 
 {% aplayer "Teach me to fly" "János Varga" "http://janos-the-voice-audio.s3-website-us-west-1.amazonaws.com/teachmetofly.mp3" "/images/rabbit1.jpeg"  %}
