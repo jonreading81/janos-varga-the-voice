@@ -9,4 +9,4 @@ thumb_image: images/christine.jpg
 
 Leonard Cohen was a Canadian singer, songwriter, poet, and novelist. His work explored religion, politics, isolation, depression, sexuality, loss, death and romantic relationships.
 
-{% aplayer "The fly" "János Varga" "http://janos-the-voice-audio.s3-website-us-west-1.amazonaws.com/lady1.mp3" "/images/christine.jpg"  %}
+{% aplayer "The fly" "János Varga" "http://janos-the-voice-audio.s3-website-us-west-1.amazonaws.com/thefly.mp3" "/images/christine.jpg"  %}
