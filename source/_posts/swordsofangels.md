@@ -9,4 +9,4 @@ thumb_image: images/sword.jpeg
 
 Leonard Cohen was a Canadian singer, songwriter, poet, and novelist. His work explored religion, politics, isolation, depression, sexuality, loss, death and romantic relationships.
 
-{% aplayer "Swords of angels" "János Varga" "http://janos-the-voice-audio.s3-website-us-west-1.amazonaws.com/swordsofangels.mp3" "/images/sword.jpeg"  %}
+{% aplayer "I have taken you" "János Varga" "http://janos-the-voice-audio.s3-website-us-west-1.amazonaws.com/swordsofangels.mp3" "/images/sword.jpeg"  %}
